@@ -1,4 +1,4 @@
-export const runtime = 'edge';
+
 
 import { Card } from '@/app/ui/dashboard/cards';
 import RevenueChart from '@/app/ui/dashboard/revenue-chart';
